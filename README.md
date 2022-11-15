@@ -1,1 +1,1 @@
-# 24-video35-leela-web-dev-angular-ngrx-counter-receive-posts-from-database
+En este video hemos hechoh la funcionalidad de obtener los posts de la base de datos
